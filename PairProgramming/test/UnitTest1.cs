@@ -10,8 +10,10 @@ public class Tests
     }
 
     [Test]
-    public void Test1()
+    public void ProbandoTestOOP()
     {
         Assert.Pass();
     }
+
+    
 }
