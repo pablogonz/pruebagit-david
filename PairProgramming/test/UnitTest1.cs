@@ -10,7 +10,7 @@ public class Tests
     }
 
     [Test]
-    public void ProbandoTestOOP()
+    public void Probando_Nuevo_Test_Nice()
     {
         Assert.Pass();
     }
